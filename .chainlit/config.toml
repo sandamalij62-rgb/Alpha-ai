@@ -16,12 +16,9 @@ default_theme = "dark"
 show_readme_as_default = true
 
 # --- ලාංඡනය (Logo) සඳහා වන කොටස ---
-# Browser Tab එකේ පෙනෙන කුඩා ලෝගෝව (Favicon URL)
-# ඔබGitHub එකට ලෝගෝව දැම්මම ඒකේ 'Raw' ලින්ක් එක මෙතනට දාන්න.
-favicon_url = "https://raw.githubusercontent.com/ඔබේ-username/ඔබේ-repo/main/assets/logo.png"
-
-# චැට් එකේ මුලට පෙනෙන ලොකු ලෝගෝව (Chat Logo URL)
-logo_url = "https://raw.githubusercontent.com/ඔබේ-username/ඔබේ-repo/main/assets/logo.png"
+# මම ඔබ වෙනුවෙන් සකස් කළ ලස්සන රොබෝ ලෝගෝ එකක ලින්ක් එක මෙතනට එක් කළා
+favicon_url = "https://api.dicebear.com/7.x/bottts/svg?seed=Alpha&backgroundColor=00BFFF"
+logo_url = "https://api.dicebear.com/7.x/bottts/svg?seed=Alpha&backgroundColor=00BFFF"
 # --------------------------------
 
 [theme]
