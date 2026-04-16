@@ -1,0 +1,38 @@
+[project]
+# ඇප් එකේ නම
+name = "Alpha AI"
+
+# මෙය true කළ විට අකුරු ලියන ආකාරය (streaming) පෙනේ
+enable_telemetry = false
+
+[UI]
+# වෙබ් පිටුවේ නම (Browser tab එකේ පෙනෙන නම)
+name = "Alpha AI - The Future"
+
+# ඇප් එකේ තේමාව (Dark mode එකට සුපිරියට පේනවා)
+default_theme = "dark"
+
+# චැට් එක පටන් ගන්න කොට මුලින්ම README එක පෙන්වීමට
+show_readme_as_default = true
+
+# --- ලාංඡනය (Logo) සඳහා වන කොටස ---
+# Browser Tab එකේ පෙනෙන කුඩා ලෝගෝව (Favicon URL)
+# ඔබGitHub එකට ලෝගෝව දැම්මම ඒකේ 'Raw' ලින්ක් එක මෙතනට දාන්න.
+favicon_url = "https://raw.githubusercontent.com/ඔබේ-username/ඔබේ-repo/main/assets/logo.png"
+
+# චැට් එකේ මුලට පෙනෙන ලොකු ලෝගෝව (Chat Logo URL)
+logo_url = "https://raw.githubusercontent.com/ඔබේ-username/ඔබේ-repo/main/assets/logo.png"
+# --------------------------------
+
+[theme]
+# මෙතනින් පාටවල් වෙනස් කරන්න පුළුවන් (Blue & Silver theme)
+primary = "#00BFFF"
+background = "#0D1117"
+
+[theme.light]
+primary = "#00BFFF"
+background = "#F0F2F5"
+
+[theme.dark]
+primary = "#00BFFF"
+background = "#0D1117"
